@@ -1,5 +1,10 @@
 package model;
 
+/*
+ * Item.java
+ * Base abstract class for items
+ */ 
+
 public abstract class Item {
 	private String name;
 
